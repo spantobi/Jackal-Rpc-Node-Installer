@@ -23,6 +23,7 @@ echo "and then finally start it with:"
 echo ""
 echo -e "${GREEN}source jackal_rpc_node_installer.sh${NC}"
 echo ""
+echo "For now, you need to use a user account called Jackal for the script to finish correctly. This issue will be fixed eventually."
 
 echo "Press any key to continue..."
 read -n 1 -s
